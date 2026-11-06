@@ -1,0 +1,290 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "80d97038-3cb8-4274-b21c-2a27dedf7068")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 229.235 36.83)
+		(size 17.78 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "3faab05b-4387-4294-8503-1ac3e925133f")
+		(property "Sheetname" "delay"
+			(at 229.235 36.1184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "delay.kicad_sch"
+			(at 229.235 55.1946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "synapsPSYFECT"
+				(path "/80d97038-3cb8-4274-b21c-2a27dedf7068"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 198.12 35.56)
+		(size 18.415 20.955)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "49cf3f69-44e3-43ed-9a3f-89d528446ed5")
+		(property "Sheetname" "phaser"
+			(at 198.12 34.8484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "phaser.kicad_sch"
+			(at 198.12 57.0996 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "synapsPSYFECT"
+				(path "/80d97038-3cb8-4274-b21c-2a27dedf7068"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.13 23.495)
+		(size 55.88 58.42)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4cbf227e-4421-478a-9d2e-fe31606c9582")
+		(property "Sheetname" "EurorackPower"
+			(at 24.13 22.7834 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "eurorackpower.kicad_sch"
+			(at 24.13 82.4996 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "synapsPSYFECT"
+				(path "/80d97038-3cb8-4274-b21c-2a27dedf7068"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 126.365 125.73)
+		(size 20.32 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d1e9fa1e-f14d-46c9-ba25-37a608ab301e")
+		(property "Sheetname" "Matrix"
+			(at 126.365 125.0184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "matrix.kicad_sch"
+			(at 126.365 146.6346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "synapsPSYFECT"
+				(path "/80d97038-3cb8-4274-b21c-2a27dedf7068"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 197.485 71.12)
+		(size 18.415 18.415)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "db78b316-b053-4ef0-bcd6-91d8f18946d9")
+		(property "Sheetname" "bbd"
+			(at 197.485 70.4084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "bbd.kicad_sch"
+			(at 197.485 90.1196 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "synapsPSYFECT"
+				(path "/80d97038-3cb8-4274-b21c-2a27dedf7068"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 41.91 120.65)
+		(size 24.13 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ea49a3e6-640b-4b0f-aa92-acacdf454c15")
+		(property "Sheetname" "CVIN"
+			(at 41.91 119.9384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cvin.kicad_sch"
+			(at 41.91 147.9046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "synapsPSYFECT"
+				(path "/80d97038-3cb8-4274-b21c-2a27dedf7068"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
